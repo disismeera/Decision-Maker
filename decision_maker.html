@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <style>
+      .container {
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: Arial, sans-serif;
+      }
+      h1 {
+        margin-top: 50px;
+      }
+      .input-section {
+        margin-top: 50px;
+      }
+      .btn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        margin-top: 20px;
+        cursor: pointer;
+      }
+      .result {
+        margin-top: 50px;
+        font-size: 20px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Decision Maker</h1>
+      <div class="input-section">
+        <p>Enter your choices separated by commas:</p>
+        <input type="text" id="choices">
+      </div>
+      <button class="btn" onclick="makeDecision()">Make Decision</button>
+      <div class="result" id="result"></div>
+    </div>
+
+    <script>
+      function makeDecision() {
+        var choices = document.getElementById("choices").value.split(",");
+        var decision = choices[Math.floor(Math.random() * choices.length)];
+        document.getElementById("result").innerHTML = "The Decision Maker has decided: " + decision;
+      }
+    </script>
+  </body>
+</html>
