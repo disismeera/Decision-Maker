@@ -1,0 +1,7 @@
+The "decision_maker" function starts by printing a welcome message and asking the user to enter their "choices" separated by commas. 
+The user's input is stored in the choices variable as a list, using the input().split(",") method.
+
+Next, the "random" library is imported and used to make a random decision from the list of choices stored in the "choices" variable. 
+The "random.choice" method is used to randomly select an item from the list.
+
+Finally, the decision made by the program is printed to the screen using the "print" function.
