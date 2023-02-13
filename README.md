@@ -14,4 +14,6 @@ Several instances include:
    -> Rapid Decision
    
 In conclusion, the Decision Maker is a straightforward yet efficient tool for making decisions fast and effectively. 
+
+PS: I am the sort of person who is never sure what to eat when someone asks me, but now I can chose quickly by just providing several alternatives and that's why I    made it just for fun!!
    
