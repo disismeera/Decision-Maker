@@ -7,7 +7,8 @@ A list of options entered into the software and separated by commas is stored as
 How it can be helpful?
 When a user wishes to make a rapid choice but is having problems deciding among several possibilities, the Decision Maker application can be beneficial in a variety of circumstances.
 Several instances include:
-   -> Choosing what to eat for dinner
+
+   -> Choosing what to eat for dinner 
    -> Deciding on a movie to watch
    -> Picking a random activity to do
    -> Selecting a name for a new project
@@ -17,3 +18,4 @@ In conclusion, the Decision Maker is a straightforward yet efficient tool for ma
 
 PS: I am the sort of person who is never sure what to eat when someone asks me, but now I can chose quickly by just providing several alternatives and that's why I    made it just for fun!!
    
+You can acess it here: https://randomsite001.z10.web.core.windows.net/
