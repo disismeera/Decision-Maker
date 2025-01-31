@@ -18,4 +18,4 @@ In conclusion, the Decision Maker is a straightforward yet efficient tool for ma
 
 PS: I am the sort of person who is never sure what to eat when someone asks me, but now I can chose quickly by just providing several alternatives and that's why I    made it just for fun!!
    
-You can acess it here: https://randomsite001.z10.web.core.windows.net/
+
